@@ -1,0 +1,360 @@
+/* body{
+    background-image: url(/home/background-foto.jpg);
+    background-size:cover;
+} */
+
+.nama-navbar {
+    /* color: #e93600; */
+
+    color: aliceblue;
+    margin-top: 5px;
+    /* text-decoration: aliceblue; */
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.nama-navbar:hover {
+    /* color:rgb(252, 137, 6); */
+    color: #e93600;
+}
+
+.bagian-kiri {
+    position: relative;
+    top: 0.5rem;
+
+    left: 4rem;
+    width: 12rem;
+    height: 5rem;
+    /* background-color: rebeccapurple; */
+}
+
+.bagian-kanan {
+    width: 65rem;
+    height: 25rem;
+    position: relative;
+    bottom: 62px;
+    left: 18rem;
+    /* background-color:blue; */
+}
+
+.kategori {
+    /* width: auto; */
+    height: 43s0px;
+    /* background-color: white; */
+    color: aliceblue;
+}
+
+.kategori2 {
+    height: 290px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 2%;
+    padding-left: 5%;
+    /* filter: opacity(30%); */
+}
+
+.filter {
+    padding-top: 10px;
+    font-size: 1rems;
+    text-align: center;
+    color: #e93600;
+    /* background: linear-gradient(45deg, rgb(180, 74, 3), rgb(255, 244, 244)); */
+}
+
+.nama-kategori {
+    padding-bottom: 25px;
+    font-size: 12px;
+    padding-left: 21px;
+}
+
+.btn {
+    /* height: 30px; */
+    border-radius: 20%;
+    /* padding: 1; */
+    /* background-color: rgb(218, 120, 9)!important; */
+    background-color: #e93600 !important;
+
+}
+
+.btn:hover {
+    transform: scale(1.1);
+    transition: 1s;
+
+}
+
+.pubg {
+
+    height: 12.5rem;
+    width: 14rem;
+    /* background-color: rgb(247, 160, 0); */
+    /* margin-left: 0.1%; */
+    /* margin-right: 10px; */
+    margin-bottom: 0.5%;
+    text-align: center;
+}
+
+.game-txt {
+    margin-top: 10px;
+    color: aliceblue;
+}
+
+.mortal {
+    position: relative;
+    left: 16rem;
+    bottom: 12.8rem;
+    height: 12.5rem;
+    width: 14rem;
+    /* background-color: rgb(247, 160, 0); */
+    /* margin-left: 0.1%; */
+    /* margin-right: 10px; */
+    margin-bottom: 0.5%;
+    text-align: center;
+
+}
+
+.zombie {
+    position: relative;
+    left: 32rem;
+    bottom: 25.6rem;
+    height: 12.5rem;
+    width: 14rem;
+    /* background-color: rgb(247, 160, 0); */
+    /* margin-left: 0.1%; */
+    /* margin-right: 10px; */
+    margin-bottom: 0.5%;
+    text-align: center;
+
+}
+
+.rise {
+    position: relative;
+    left: 775px;
+    bottom: 38.5rem;
+    height: 12.5rem;
+    width: 14rem;
+    /* background-color: rgb(247, 160, 0); */
+    /* margin-left: 0.1%; */
+    /* margin-right: 10px; */
+    margin-bottom: 0.5%;
+    text-align: center;
+}
+
+.fifa {
+    position: relative;
+    bottom: 37rem;
+    height: 12.5rem;
+    width: 14rem;
+    margin-bottom: 0.5%;
+    text-align: center;
+}
+
+.dr-driving {
+    position: relative;
+    left: 16rem;
+    bottom: 49.8rem;
+    height: 12.5rem;
+    width: 14rem;
+    margin-bottom: 0.5%;
+    text-align: center;
+}
+
+.jdmRacing {
+    position: relative;
+    left: 32rem;
+    bottom: 62.6rem;
+    height: 12.5rem;
+    width: 14rem;
+    margin-bottom: 0.5%;
+    text-align: center;
+}
+
+.nba {
+    position: relative;
+    left: 775px;
+    bottom: 75.5rem;
+    height: 12.5rem;
+    width: 14rem;
+    margin-bottom: 0.5%;
+    text-align: center;
+}
+
+.img {
+
+    /* position: relative;
+    left: 85px;     */
+    width: 13rem;
+    height: 8rem;
+    border-radius: 3%;
+    /* margin: 5px; */
+}
+
+.img:hover {
+    transform: scale(1.1);
+    transition: 1s;
+
+
+
+}
+
+/* body{
+    padding: 0;
+} */
+.container-bawa {
+    position: relative;
+    /* top: 1rem; */
+    margin-bottom: 0px;
+    height: 7.4rem;
+    width: 84.2rem;
+    background-color: black;
+}
+
+.bgian-kiri {
+    position: relative;
+    left: 4rem;
+    width: 19rem;
+    height: 7.4rem;
+    /* background-color: white; */
+    padding-top: 1rem;
+
+}
+
+.nama-awal {
+    font-size: 1.5rem;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, 'sans-serif';
+    padding-bottom: 5px;
+}
+
+.desc1-kiri {
+    color: rgb(128, 137, 145);
+    font-size: smaller;
+
+}
+
+.desc2-kiri {
+    color: rgb(128, 137, 145);
+    font-size: smaller;
+    position: relative;
+    bottom: 10px;
+}
+
+.fa-brands {
+    margin-right: 14px;
+}
+
+.bgian-tengah {
+    position: relative;
+    left: 38rem;
+    bottom: 7.4rem;
+    width: 20rem;
+    height: 7.4rem;
+    /* background-color: white; */
+    padding-top: 1rem;
+}
+
+.judul-bagian-tengah {
+    color: rgb(212, 193, 193);
+    font-size: 1rem;
+    padding-bottom: 9px;
+    font-weight: bold;
+}
+
+.desc1-tengah {
+    color: rgb(128, 137, 145);
+    font-size: 12px;
+    position: relative;
+    bottom: 18px;
+}
+
+.desc2-tengah {
+    color: rgb(128, 137, 145);
+    font-size: 12px;
+    position: relative;
+    bottom: 28px;
+}
+
+.desc3-tengah {
+    color: rgb(128, 137, 145);
+    font-size: 12px;
+    position: relative;
+    bottom: 40px;
+}
+
+.judul-pinggir-kanan {
+    color: rgb(212, 193, 193);
+    font-size: 1rem;
+    padding-bottom: 9px;
+}
+
+.desc1-kanan {
+    color: rgb(128, 137, 145);
+    font-size: 12px;
+    position: relative;
+    bottom: 18px;
+}
+
+.desc2-kanan {
+    color: rgb(128, 137, 145);
+    font-size: 12px;
+    position: relative;
+    bottom: 28px;
+}
+
+.desc3-kanan {
+    color: rgb(128, 137, 145);
+    font-size: 12px;
+    position: relative;
+    bottom: 40px;
+}
+
+.bgian-pinggir-kanan {
+    position: relative;
+    left: 65rem;
+    bottom: 14.8rem;
+    width: 17rem;
+    height: 7.4rem;
+    /* background-color: white; */
+    padding-top: 1rem;
+}
+
+.fa-solid1 {
+    margin-left: 6rem;
+}
+
+.fa-solid2 {
+    margin-left: 4.7rem;
+}
+
+.fa-solid3 {
+    margin-left: 4.5rem;
+}
+
+.fa-solid4 {
+    margin-left: 4.7rem;
+}
+
+.fa-solid5 {
+    margin-left: 4.7rem;
+}
+
+.fa-solid {
+    color: #e93600;
+
+}
+
+.fa-solid:hover {
+    transform: scale(1.6);
+  
+}
+
+.kate{
+    text-decoration: none; 
+    font-weight: bold;
+    color:white;
+}
+.kate:hover{
+    transform: scale(1.1);
+    font-weight: bold;
+
+    color: #e93600;
+    
+}
