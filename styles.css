@@ -1,0 +1,82 @@
+body {
+    background-image: url(background-foto.jpg);
+    background-size: cover;
+    /* background-position: bottom; */
+    /* background-repeat:no-repeat ; */
+    /* background-color: blue; */
+
+}
+
+/* navigation styles */
+
+.navigation {
+    margin-top: 10px;
+}
+
+.nama-navbar {
+    /* color: #e93600; */
+
+    color: aliceblue;
+    margin-top: 5px;
+    /* text-decoration: aliceblue; */
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.nama-navbar:hover {
+    /* color:rgb(252, 137, 6); */
+    color: #e93600;
+}
+
+.btn {
+    background-color: #e93600 !important;
+
+}
+
+.btn:hover {
+    transform: scale(1.1);
+    transition:1s;
+
+}
+
+#judul-games {
+    color: aliceblue;
+    text-align: center;
+    width: 660px;
+    margin: auto;
+    margin-top: 10%;
+    /* background-color: rgb(0,0,0,0.4);
+    backdrop-filter: blur(3px);
+    border-radius: 3%; */
+    padding: 2% 2% 2% 2%;
+}
+
+/* #judul-games:hover{
+    transform: scale(1.1);
+} */
+.nama-awal {
+    font-size: 4rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.desk-awal {
+    font-style: italic;
+}
+
+.carousel-inner1 {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+
+.carousel-inner1 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(63, 27, 221);
+}
+
+.background-img-games {
+    background-image: url(pubg.jpg);
+    width: auto;
+    height: 400px;
+}
